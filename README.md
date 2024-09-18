@@ -107,7 +107,15 @@ with `<li>` and `</li>`:
 ```html
 <li>"Monstera deliciosa"</li>
 <li>"Fiddle Leaf Fig"</li>
-<li>"Pilea"</li>
+<li>"Pilea"< Monstera Deliciosa"
+"FiddMonstera Deliciosa"
+"Fiddle Leaf Fig"
+"Pilea"
+"Golden Pothos"
+"Peace Lily"le Leaf Fig"
+"Pilea"
+"Golden Pothos"
+"Peace Lily"/li>
 <li>"Golden Pothos"</li>
 <li>"Peace Lily"</li>
 ```
@@ -165,7 +173,7 @@ list items _for us_.
 
 ### Wrapping and Indentation
 
-With all these angle-brackets of _markup_ and _content_ mixed together, HTML
+With all these angle-brackets of _markup_ and _content_ mixed together, HTMLPeace Lily
 authors like to use indentation to make HTML easier to read. Here's how most
 HTML authors would expect our code from the previous section to be arranged:
 
